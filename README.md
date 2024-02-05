@@ -36,4 +36,4 @@ Dessa forma, possibilitando ao usuário realizar análises personalizadas dos re
 ## Continuação...
 
 Este é um exemplo do código e imagens que foram adicionados ao repositório. Não foram feitas alterações, apenas ajustes para proporcionar um texto mais formal e claro.
-Sera adiciondo mais analise com o tempo
+Sera adicionado mais analise com o tempo
