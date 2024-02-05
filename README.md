@@ -22,6 +22,15 @@ Conforme ilustrado, é possível visualizar as arrecadações gerais de todos os
 
 ![Interação do Usuário](https://github.com/CarlosJuncher03/PowerBI/assets/145303814/8ee4c69b-e433-4db4-967a-b3b3960e09b7)
 
+Segue o video:
+
+https://github.com/CarlosJuncher03/PowerBI/assets/145303814/149c725b-7dc4-4a61-a885-9b8d9d62f247
+
+
+
+
+
+
 Dessa forma, possibilitando ao usuário realizar análises personalizadas dos relatórios.
 
 ## Continuação...
