@@ -33,7 +33,22 @@ https://github.com/CarlosJuncher03/PowerBI/assets/145303814/149c725b-7dc4-4a61-a
 
 Dessa forma, possibilitando ao usuário realizar análises personalizadas dos relatórios.
 
-## Continuação...
+## DAX (Data Analysis Expressions)
+DAX é uma linguagem de análise de dados usada no PowerBI e em outras ferramentas da Microsoft, como o Excel. Ela permite realizar cálculos dentro do ambiente de banco de dados, facilitando a criação de métricas e análises complexas.
 
-Este é um exemplo do código e imagens que foram adicionados ao repositório. Não foram feitas alterações, apenas ajustes para proporcionar um texto mais formal e claro.
-Sera adicionado mais analise com o tempo
+<h2>Exemplo de Uso do DAX:</h2>
+O exemplo a seguir demonstra como usar o DAX para calcular uma métrica com base em dados de vendas:
+
+![image](https://github.com/CarlosJuncher03/PowerBI/assets/145303814/b46c71fc-5660-4a01-90c4-2048444b877b)
+
+
+Para mais informações sobre fórmulas DAX, consulte este documento: [Fórmulas DAX.pdf](https://github.com/CarlosJuncher03/PowerBI/files/14216973/Formulas.DAX.pdf)
+
+
+Para aprender sobre os operadores disponíveis no DAX, você pode fazer o download deste documento: [Operadores DAX.pdf](https://github.com/CarlosJuncher03/PowerBI/files/14216974/Operadores.DAX.pdf)
+
+
+
+
+
+
