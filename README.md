@@ -1,4 +1,4 @@
-# Repositório para Armazenamento de Relatórios e Bases de PowerBI
+# Repositório geral de PowerBI
 
 ## Introdução
 Antes de prosseguir com a leitura deste repositório, é recomendável que você esteja familiarizado com a ferramenta [PowerBI](https://learn.microsoft.com/pt-br/power-bi/fundamentals/power-bi-overview).
