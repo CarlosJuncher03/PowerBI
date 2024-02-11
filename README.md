@@ -37,7 +37,7 @@ Dessa forma, possibilitando ao usuário realizar análises personalizadas dos re
 DAX é uma linguagem de análise de dados usada no PowerBI e em outras ferramentas da Microsoft, como o Excel. Ela permite realizar cálculos dentro do ambiente de banco de dados, facilitando a criação de métricas e análises complexas.
 
 <h2>Exemplo de Uso do DAX:</h2>
-O exemplo a seguir demonstra como usar o DAX para calcular uma métrica com base em dados de vendas:
+O exemplo a seguir demonstra como usar o DAX para calcular uma métrica com base em dados:
 
 ![image](https://github.com/CarlosJuncher03/PowerBI/assets/145303814/b46c71fc-5660-4a01-90c4-2048444b877b)
 
