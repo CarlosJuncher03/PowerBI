@@ -47,8 +47,17 @@ Para mais informações sobre fórmulas DAX, consulte este documento: [Fórmulas
 
 Para aprender sobre os operadores disponíveis no DAX, você pode fazer o download deste documento: [Operadores DAX.pdf](https://github.com/CarlosJuncher03/PowerBI/files/14216974/Operadores.DAX.pdf)
 
+## Segue abaixo meus projetos do PowerBI
 
+- Análise de vendas por ano 
+![image](https://github.com/CarlosJuncher03/PowerBI/assets/145303814/0cb02dc4-e045-4f34-8114-22be2b1c8ca2)
 
+[Link aqui do dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDM2MWQwYTAtY2EzMi00NTBlLTg2NjQtNjMyMzM1MTYwNjRmIiwidCI6IjU1ODExZTUzLWQ0NDItNDA4Ny05MjU0LTQwY2JiZGUxNWUyMiJ9)
+
+- Resumo de vendas geral por ano/mês
+![image](https://github.com/CarlosJuncher03/PowerBI/assets/145303814/b43dca41-9950-474c-a854-a713f7d130e7)
+
+[Link aqui do dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDJkNzNjNjItYTFhMS00NGEyLWIxNTgtYTQ1OTdmMmJiNzM4IiwidCI6IjU1ODExZTUzLWQ0NDItNDA4Ny05MjU0LTQwY2JiZGUxNWUyMiJ9)
 
 
 
