@@ -59,5 +59,11 @@ Para aprender sobre os operadores disponíveis no DAX, você pode fazer o downlo
 
 [Link aqui do dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDJkNzNjNjItYTFhMS00NGEyLWIxNTgtYTQ1OTdmMmJiNzM4IiwidCI6IjU1ODExZTUzLWQ0NDItNDA4Ny05MjU0LTQwY2JiZGUxNWUyMiJ9)
 
+- Resumo vendas produtos
+![image](https://github.com/CarlosJuncher03/PowerBI/assets/145303814/e0746154-e0ad-48b6-a3cc-a77295883538)
+
+[Link aqui do dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjJiYmNlOWYtM2E1OC00Y2ZkLThjZDYtZGQxNDczOTljNDcyIiwidCI6IjU1ODExZTUzLWQ0NDItNDA4Ny05MjU0LTQwY2JiZGUxNWUyMiJ9)
+
+
 
 
